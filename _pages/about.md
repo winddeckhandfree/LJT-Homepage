@@ -53,7 +53,7 @@ My research interests include:
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations.**
    Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *NeurIPS 2023*.
 
-You can also find my publications on the [Publications](/publications/) page and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+You can also find my publications on the [Publications]({{ '/publications/' | relative_url }}) page and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Contact
 
