@@ -20,9 +20,13 @@ jobs:
           JEKYLL_ENV: production
       - name: Verify generated content
         run: |
+          set -e
           test -f _site/index.html
           test -f _site/publications/index.html
-          for p in synlogic perception-bottleneck-vlms universal-truthfulness-hyperplane in-context-sharpness c-eval composing-parameter-efficient-modules; do test -f "_site/publication/$p/index.html"; done
+          ls -R _site/publication
+          for p in synlogic perception-bottleneck-vlms universal-truthfulness-hyperplane in-context-sharpness c-eval composing-parameter-efficient-modules; do
+            test -f "_site/publication/$p.html" || test -f "_site/publication/$p/index.html"
+          done
           grep -q "Junteng Liu" _site/index.html
           grep -q "SynLogic" _site/index.html
           grep -q "SynLogic" _site/publications/index.html
