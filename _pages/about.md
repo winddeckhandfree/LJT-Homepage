@@ -24,9 +24,9 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong U
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX, February 2025 – Present
-- **Research Intern**, Tencent WXG, June 2024 – September 2024 (advised by Zifei Shan)
-- **Research Intern**, Shanghai AI Lab, June 2023 – December 2023 (advised by Prof. Yu Cheng)
+- **Research Intern at MINIMAX**, February 2025 – Present
+- **Research Intern at Tencent WXG**, June 2024 – September 2024 (advised by Zifei Shan)
+- **Research Intern at Shanghai AI Lab**, June 2023 – December 2023 (advised by Prof. Yu Cheng)
 
 ## Research Interests
 
